@@ -1,4 +1,5 @@
 Librería con Operaciones para Números Complejos
+
 Esta es una librería creada en el lenguaje Python, en la que puede realizar algunas operaciones con los números complejos, las cuales son:
 1) complex_sum(a, b): Esta función se encarga de sumar dos números complejos, retornando un arreglo el cual tendrá una parte entera y una parte compleja compleja de la operación. 
 (a1,b1) + (a2,b2) = (a1 + a2, b1 + b2)
